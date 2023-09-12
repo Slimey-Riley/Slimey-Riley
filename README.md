@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Slimey-Riley
-- 👀 I’m interested in fully stack web development and blender
-- 🌱 I’m currently learning how to create saas application
-- 💞️ I’m looking to collaborate on nothing atm B)
-- 📫 How to reach me SlimeyRy@gmail.com
+- 👀 I’m interested in blender and application dev
+- 🌱 I’m currently learning how to create discord bots and want to learn chrome extensions
 
 <!---
 Slimey-Riley/Slimey-Riley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
